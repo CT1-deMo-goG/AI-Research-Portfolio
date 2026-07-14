@@ -49,7 +49,9 @@ Selected Leaderboard Results
 | Children's Speech Recognition (Word) | **140** | 655 |
 
 Detailed competition summaries are available in the **/competitions** directory.
-
+<p align="center">
+  <img src="drivendata-profile.jpg" alt="DrivenData Leaderboard Profile Verification" width="80%">
+</p>
 ---
 
 # Benchmark Portfolio
