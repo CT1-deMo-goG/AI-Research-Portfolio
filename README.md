@@ -18,11 +18,35 @@ The goal of this repository is to provide a transparent and verifiable record of
 
 # Research Portfolio
 
-## Software Projects
+# Portfolio Sections
 
-- GSL Solver
-- GSL Routing Engine
-- Vehicle Routing Benchmark Portfolio
+## Machine Learning Competition Portfolio
+
+Public competition participation and leaderboard records from DrivenData.
+
+Location:
+
+- competitions/
+
+---
+
+## Hippo Strategy Engine
+
+Prediction analytics and decision support research using real-world competitive data.
+
+Location:
+
+- Hippo_Strategy_Engine/
+
+---
+
+## Geo Strategy Logistic (GSL) Solver
+
+Deterministic vehicle routing optimization framework and public benchmark portfolio.
+
+Location:
+
+- gsl/
 
 ## Machine Learning Competition Portfolio
 
