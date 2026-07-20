@@ -92,23 +92,18 @@ https://www.drivendata.org/users/CT1_deMo/
 
 # Repository Structure
 
+```text
 AI-Research-Portfolio
 
-```
-README.md
-
-competitions/
-    README.md
-    flu-shot-learning.md
-    conser-vision.md
-    richters-predictor.md
-    dengai.md
-    pump-it-up.md
-    pasketti-phonetic.md
-    pasketti-word.md
+├── competitions/
+│
+├── Hippo_Strategy_Engine/
+│
+├── gsl/
+│
+└── README.md
 ```
 
----
 
 # Contact
 
