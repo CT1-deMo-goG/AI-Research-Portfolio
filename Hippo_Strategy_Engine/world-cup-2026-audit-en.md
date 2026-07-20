@@ -66,6 +66,22 @@ The reported accuracy of 60.58% represents the final verified result across all 
 
 ---
 
+## Real-Time Dashboard Audit Logs (100-Match Trace)
+
+Below are the raw execution logs captured directly from the Hippo Picks live engine dashboard, recorded in UTC/GMT server time prior to each match kick-off.
+
+### Snapshot Evidence Gallery (Pages 1–10)
+
+| Pages 1 – 5 | Pages 6 – 10 |
+| :---: | :---: |
+| ![Dashboard Page 1](./dashboard_logs/d_01.jpg) | ![Dashboard Page 6](./dashboard_logs/d_06.jpg) |
+| ![Dashboard Page 2](./dashboard_logs/d_02.jpg) | ![Dashboard Page 7](./dashboard_logs/d_07.jpg) |
+| ![Dashboard Page 3](./dashboard_logs/d_03.jpg) | ![Dashboard Page 8](./dashboard_logs/d_08.jpg) |
+| ![Dashboard Page 4](./dashboard_logs/d_04.jpg) | ![Dashboard Page 9](./dashboard_logs/d_09.jpg) |
+| ![Dashboard Page 5](./dashboard_logs/d_05.jpg) | ![Dashboard Page 10](./dashboard_logs/d_10.jpg) |
+
+> **Audit Note:** The logs display a continuous sequence of 100 predictive runs. Non-World Cup matches processed during the tournament cycle are preserved to maintain raw database logging integrity.
+> 
 # Final Status
 
 Performance Verified
