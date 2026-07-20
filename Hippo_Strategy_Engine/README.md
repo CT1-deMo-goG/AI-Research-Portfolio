@@ -46,7 +46,7 @@ Website
 
 ## Group Stage Results
 
-![Group Stage Summary](group-stage-summary.jpg)
+![Group Stage Summary](group-stage-summary.png)
 
 Group Stage Performance
 
@@ -58,7 +58,7 @@ Group Stage Performance
 
 ## Final Tournament Results
 
-![Final Tournament Summary](full-tournament-summary.jpg)
+![Final Tournament Summary](full-tournament-summary.png)
 
 Final Performance
 
