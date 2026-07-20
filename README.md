@@ -34,7 +34,7 @@ Platform:
 Current Statistics
 
 - 204 Public Submissions
-- 8 Competitions Participated
+- 7 Competitions Participated
 
 Selected Leaderboard Results
 
