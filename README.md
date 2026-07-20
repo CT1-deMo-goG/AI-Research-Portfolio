@@ -10,11 +10,11 @@ The goal of this repository is to provide a transparent and verifiable record of
 
 - Artificial Intelligence
 - Machine Learning
+- Predictive Analytics
+- Decision Support Systems
 - Operations Research
 - Vehicle Routing Optimization
-- Decision Analytics
-- Logistics Optimization
-
+- Logistics Analytics
 ---
 
 # Research Portfolio
