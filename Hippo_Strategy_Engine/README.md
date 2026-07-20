@@ -40,13 +40,13 @@ Website
 
 ### Hippo Strategy Engine
 
-![Hippo Dashboard](hippo-dashboard.png)
+![Hippo Dashboard](hippo-dashboard.jpeg)
 
 ---
 
 ## Group Stage Results
 
-![Group Stage Summary](group-stage-summary.png)
+![Group Stage Summary](group-stage-summary.jpeg)
 
 Group Stage Performance
 
@@ -58,7 +58,7 @@ Group Stage Performance
 
 ## Final Tournament Results
 
-![Final Tournament Summary](full-tournament-summary.png)
+![Final Tournament Summary](full-tournament-summary.jpeg)
 
 Final Performance
 
