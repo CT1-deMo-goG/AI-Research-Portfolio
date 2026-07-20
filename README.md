@@ -26,7 +26,7 @@ Public competition participation and leaderboard records from DrivenData.
 
 Location:
 
-- competitions/
+- .competitions/README.md
 
 ---
 
