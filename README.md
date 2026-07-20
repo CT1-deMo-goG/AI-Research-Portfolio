@@ -1,5 +1,4 @@
-# AI & Optimization Research Portfolio
-
+# AI, Optimization & Decision Support Research Portfolio
 This repository serves as the central index of my public research portfolio, bringing together software projects, benchmark reports, machine learning competition results, and technical activities as an independent researcher.
 
 The goal of this repository is to provide a transparent and verifiable record of my work across artificial intelligence, optimization, and applied machine learning.
