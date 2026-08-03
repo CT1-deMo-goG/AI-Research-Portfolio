@@ -32,7 +32,7 @@ Evaluation Criterion
 
 Website
 
-- https://www.hippo42picks.onrender.com
+- https://www.hippo42picks.vercel.app
 
 ---
 
